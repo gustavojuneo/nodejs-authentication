@@ -7,3 +7,6 @@ Projeto criado para estudos de Context API e Autenticação com ReactJS
 - [JavaScript](https://www.javascript.com/)
 - [NodeJS](https://nodejs.org/)
 - [Express](https://expressjs.com/)
+
+## LICENÇA
+Esse projeto utiliza a [LICENÇA](LICENSE) MIT.
